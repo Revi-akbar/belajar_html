@@ -27,3 +27,8 @@ Video ini memperkenalkan dasar-dasar HTML dan sejarah singkat tentang web:
 
 ---
 
+# Video 2
+
+---
+
+## Ringkasan Materi
