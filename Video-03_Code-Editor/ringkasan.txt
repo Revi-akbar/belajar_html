@@ -1,1 +1,4 @@
-Untuk membuat halaman web, bisa saja menggunakan aplikasi text editor seperti notepad. Tapi notepad memiliki kesulitan karena kita harus menulis semua markup-nya secara manual. Salah satu aplikasi yang khusus dibuat untuk membuat halaman web yaitu sublime, aplikasi aplikasi itu dinamakan Code Editor.
+Untuk membuat halaman web, bisa saja menggunakan aplikasi text editor seperti notepad.
+Tapi notepad memiliki kesulitan karena kita harus menulis semua markup-nya secara manual.
+Salah satu aplikasi yang khusus dibuat untuk membuat halaman web yaitu sublime,
+aplikasi aplikasi itu dinamakan Code Editor.
